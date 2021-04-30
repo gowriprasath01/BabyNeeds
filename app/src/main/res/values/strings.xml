@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BabyNeeds</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item">Enter item</string>
+    <string name="enter_quantity">Enter Quantity</string>
+    <string name="colour">Colour</string>
+    <string name="size">Size</string>
+    <string name="save">Save</string>
+    <string name="confirm_txt">Are you sure to delete the item?</string>
+    <string name="no_button">NO</string>
+    <string name="yes_button">YES</string>
+    <string name="edit_title">Edit item</string>
+    <string name="update_text">Update</string>
+</resources>
